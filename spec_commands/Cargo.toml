@@ -9,7 +9,7 @@ edition = "2018"
 
 # regex
 once_cell = "1.4"
-regex = "1.3"
+regex = "1.5"
 
 # logging
 log = "0.4"
